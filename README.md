@@ -1,6 +1,7 @@
 # Kurzinfo über den Server
 - Servertyp: Fabric
 - Version: 26.1.2
+- Minecraft Java only
 - Mods:
     - Alternate Current
     - AntiXray
