@@ -1,5 +1,28 @@
 # Server Rules
 ## Short overview
+Erlaubte Mods
+
+* Empfohlen: Polymer
+* Erlaubt: Gamma Utils (Fullbright), Litematica
+* Alle anderen Mods sind nur erlaubt, wenn sie keinen unfairen Vorteil bieten.
+
+Wichtige Regeln
+
+* Mit dem Betreten des Servers akzeptierst du die Regeln.
+* Das Team darf Regeln ändern und Verstöße bestrafen.
+* Sei respektvoll – keine Beleidigungen, Diskriminierung, Spam oder Drohungen.
+* Keine Ban-Umgehung oder Mehrfachaccounts zum Umgehen von Strafen.
+* Bugs müssen gemeldet und dürfen nicht ausgenutzt werden.
+* Scamming und Griefing sind verboten.
+* Bei Streitfällen musst du Beweise liefern.
+* Es gibt keine Garantie auf Item-Erstattung; nur bei nachweisbaren Serverfehlern kann es Ersatz geben.
+
+Mods
+
+* Keine Hack-Clients, X-Ray, Bots, Makros oder Auto-Clicker.
+* Reine Grafikmods (z. B. Shader, Resource Packs, Dynamic Lights) sind erlaubt.
+* Bauhilfen wie Litematica, EasyPlace und Printer sind erlaubt (Printer: Intervall mindestens 20, Reichweite maximal 3).
+* Automatisierungen, die schneller oder besser arbeiten als vorgesehen, sind verboten.
 ## Full rules
 ### §1 Allgemeines
 §1.1 Die Administration darf das Regelwerk jederzeit ändern; Änderungen gelten ab Veröffentlichung.
