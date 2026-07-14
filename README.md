@@ -1,5 +1,71 @@
-# Server Rules
-## Short overview
+# Kurzinfo über den Server
+- Servertyp: Fabric
+- Version: 26.1.2
+- Mods:
+    - Alternate Current
+    - AntiXray
+    - Arcana Novum
+    - Brewery
+    - CC: Tweaked
+    - Carpet Mod
+    - ChestSee
+    - Chunky
+    - Clumps
+    - Concurrent Chunk Management Engine
+    - CrashExploitFixer
+    - Explorify
+    - Fabric API
+    - Fabric Language Kotlin
+    - FabricEssentials
+    - FarmTweaks
+    - Farmer's Delight
+    - FerriteCore
+    - Friends&Foes
+    - Get Off My Lawn ReServed
+    - Glide Away\!
+    - InvView
+    - Just Enough Items
+    - Ledger
+    - Lithium
+    - Lithostitched
+    - LuckPerms
+    - Magic Particles
+    - MidnightLib
+    - No Chat Reports
+    - Packet Fixer
+    - Physics Toys
+    - Player Roles
+    - PolyDecorations
+    - PolyFactory
+    - Polydex
+    - Polymer
+    - Polymer Patch for CC: Tweaked
+    - Polymer Patch for Farmers Delight
+    - Polymer Patch for Friends&Foes
+    - Polysit
+    - Resourceful Lib
+    - Server Backpacks
+    - ServerCore
+    - Simply Slingshot
+    - SleepWarp \(Updated\)
+    - Tectonic
+    - Terralith
+    - Universal Graves
+    - Universal Shops
+    - Vanilla Permissions
+    - Very Many Players
+    - ViaFabric
+    - WorldEdit
+    - WorldManager
+    - danse \- player gestures
+    - luckperms
+    - polymer\-qol
+    - polymer\-squasher
+    - spark
+    - sswaystones
+
+# Serverregeln
+## Kurze Übersicht
 Erlaubte Mods
 
 * Empfohlen: Polymer
@@ -23,7 +89,7 @@ Mods
 * Reine Grafikmods (z. B. Shader, Resource Packs, Dynamic Lights) sind erlaubt.
 * Bauhilfen wie Litematica, EasyPlace und Printer sind erlaubt (Printer: Intervall mindestens 20, Reichweite maximal 3).
 * Automatisierungen, die schneller oder besser arbeiten als vorgesehen, sind verboten.
-## Full rules
+## Komplette Regeln
 ### §1 Allgemeines
 §1.1 Die Administration darf das Regelwerk jederzeit ändern; Änderungen gelten ab Veröffentlichung.
 
