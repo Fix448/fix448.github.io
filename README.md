@@ -1,7 +1,7 @@
 # Kurzinfo über den Server
-Servertyp: Fabric
-Version: 26.1.2
-Mods:
+- Servertyp: Fabric
+- Version: 26.1.2
+- Mods:
     - Alternate Current
     - AntiXray
     - Arcana Novum
