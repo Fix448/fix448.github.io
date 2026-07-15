@@ -2,6 +2,7 @@
 - Servertyp: Fabric
 - Version: 26.1.2
 - Minecraft Java only
+- End ist vorzeitig deaktiviert
 - Mods:
     - Alternate Current
     - AntiXray
