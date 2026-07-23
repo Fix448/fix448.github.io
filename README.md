@@ -155,6 +155,8 @@ Respektloses oder störendes Verhalten ist untersagt, insbesondere Beleidigungen
     absichtliches Sabotieren von Farmen/Redstone/Mechaniken anderer.
     
 §5.4.3 Claims können jederzeit von der Administration entfernt werden.
+
+§5.4.4 Das übermäßige Töten und Spawntrappen ist untersagt und kann sanktioniert werden
     
 #### §5.5 Chatregeln
 
